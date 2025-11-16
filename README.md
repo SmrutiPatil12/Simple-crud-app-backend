@@ -110,8 +110,3 @@ Server will run on 👉 **[http://localhost:3500](http://localhost:3500)**
 Feel free to open issues or submit pull requests to improve the project.
 
 ---
-
-
----
-
-If you want, I can also **customize the README according to your exact project code or folder structure** — just share your files or structure!
