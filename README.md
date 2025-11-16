@@ -1,6 +1,6 @@
 # 📌 CRUD App Backend (Node.js + Express + MongoDB)
 
-A simple backend application demonstrating basic **CRUD operations** (Create, Read, Update, Delete) using **Node.js**, **Express**, and **MySQL**.
+A simple backend application demonstrating basic **CRUD operations** (Create, Read, Update, Delete) using **Node.js**, **Express**, and **MongoDB**.
 This project is perfect for beginners who want to understand how APIs interact with a database.
 
 ## 🚀 Features
